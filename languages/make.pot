@@ -1,0 +1,984 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Make Email Customizer for WooCommerce\n"
+"POT-Creation-Date: 2020-10-16 12:35+0300\n"
+"PO-Revision-Date: 2020-10-16 12:32+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: make.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: ec-theme-woocommerce.php:60 ec-theme-yellow.php:78
+msgid "Text"
+msgstr ""
+
+#: ec-theme-woocommerce.php:66 ec-theme-yellow.php:84
+msgid "Appearance"
+msgstr ""
+
+#: ec-theme-woocommerce.php:72 ec-theme-yellow.php:90
+msgid "Header"
+msgstr ""
+
+#: ec-theme-woocommerce.php:78 ec-theme-yellow.php:114
+msgid "Footer"
+msgstr ""
+
+#: ec-theme-woocommerce.php:107 ec-theme-woocommerce.php:132
+#: ec-theme-woocommerce.php:157 ec-theme-woocommerce.php:182
+#: ec-theme-woocommerce.php:207 ec-theme-woocommerce.php:232
+#: ec-theme-woocommerce.php:351 ec-theme-woocommerce.php:376
+#: ec-theme-woocommerce.php:401 ec-theme-yellow.php:149 ec-theme-yellow.php:175
+#: ec-theme-yellow.php:201 ec-theme-yellow.php:227 ec-theme-yellow.php:252
+#: ec-theme-yellow.php:278 ec-theme-yellow.php:402 ec-theme-yellow.php:428
+#: ec-theme-yellow.php:454
+msgid "Heading"
+msgstr ""
+
+#: ec-theme-woocommerce.php:110
+msgid "New customer order"
+msgstr ""
+
+#: ec-theme-woocommerce.php:117 ec-theme-woocommerce.php:142
+#: ec-theme-woocommerce.php:167 ec-theme-woocommerce.php:192
+#: ec-theme-woocommerce.php:217 ec-theme-woocommerce.php:242
+#: ec-theme-woocommerce.php:267 ec-theme-woocommerce.php:289
+#: ec-theme-woocommerce.php:314 ec-theme-woocommerce.php:336
+#: ec-theme-woocommerce.php:361 ec-theme-woocommerce.php:386
+#: ec-theme-woocommerce.php:411 ec-theme-yellow.php:160 ec-theme-yellow.php:186
+#: ec-theme-yellow.php:212 ec-theme-yellow.php:237 ec-theme-yellow.php:263
+#: ec-theme-yellow.php:289 ec-theme-yellow.php:315 ec-theme-yellow.php:338
+#: ec-theme-yellow.php:364 ec-theme-yellow.php:387 ec-theme-yellow.php:413
+#: ec-theme-yellow.php:439 ec-theme-yellow.php:465
+msgid "Main Text"
+msgstr ""
+
+#: ec-theme-woocommerce.php:120
+msgid ""
+"You have received an order from [ec_firstname] [ec_lastname]. The order is "
+"as follows:"
+msgstr ""
+
+#: ec-theme-woocommerce.php:135 ec-theme-yellow.php:178
+msgid "Cancelled order"
+msgstr ""
+
+#: ec-theme-woocommerce.php:145 ec-theme-yellow.php:189
+msgid ""
+"The order [ec_order] for [ec_firstname] [ec_lastname] has been cancelled."
+msgstr ""
+
+#: ec-theme-woocommerce.php:160 ec-theme-yellow.php:204
+msgid "Failed order"
+msgstr ""
+
+#: ec-theme-woocommerce.php:170 ec-theme-yellow.php:215
+msgid ""
+"Payment for order [ec_order] from [ec_firstname] [ec_lastname] has failed."
+msgstr ""
+
+#: ec-theme-woocommerce.php:185 ec-theme-woocommerce.php:210
+#: ec-theme-yellow.php:230
+msgid "Thank you for your order"
+msgstr ""
+
+#: ec-theme-woocommerce.php:195 ec-theme-yellow.php:240
+msgid ""
+"Your order is on-hold until we confirm payment has been received. Your order "
+"details are shown below for your reference:"
+msgstr ""
+
+#: ec-theme-woocommerce.php:220
+msgid ""
+"Your order has been received and is now being processed. Your order details "
+"are shown below for your reference:"
+msgstr ""
+
+#: ec-theme-woocommerce.php:235 ec-theme-yellow.php:281
+msgid "Your order is complete"
+msgstr ""
+
+#: ec-theme-woocommerce.php:245
+msgid ""
+"Hi there. Your recent order on [ec_site_name] has been completed. Your order "
+"details are shown below for your reference:"
+msgstr ""
+
+#: ec-theme-woocommerce.php:257 ec-theme-yellow.php:304
+msgid "Heading (full)"
+msgstr ""
+
+#: ec-theme-woocommerce.php:260
+msgid "Your order has been fully refunded"
+msgstr ""
+
+#: ec-theme-woocommerce.php:270
+msgid "Hi there. Your order on [ec_site_name] has been refunded."
+msgstr ""
+
+#: ec-theme-woocommerce.php:279 ec-theme-yellow.php:327
+msgid "Heading (partial)"
+msgstr ""
+
+#: ec-theme-woocommerce.php:282 ec-theme-yellow.php:330
+msgid "You have been partially refunded"
+msgstr ""
+
+#: ec-theme-woocommerce.php:292
+msgid "Hi there. Your order on [ec_site_name] has been partially refunded."
+msgstr ""
+
+#: ec-theme-woocommerce.php:304 ec-theme-yellow.php:353
+msgid "Heading (payment pending)"
+msgstr ""
+
+#: ec-theme-woocommerce.php:307 ec-theme-woocommerce.php:329
+msgid "Order [ec_order show='#,number' hide='container'] details"
+msgstr ""
+
+#: ec-theme-woocommerce.php:317
+msgid ""
+"An order has been created for you on [ec_site_link]. To pay for this order "
+"please use the following link: [ec_pay_link]"
+msgstr ""
+
+#: ec-theme-woocommerce.php:326 ec-theme-yellow.php:376
+msgid "Heading (payment complete)"
+msgstr ""
+
+#: ec-theme-woocommerce.php:364
+msgid ""
+"Hello, a note has just been added to your order:\n"
+"\n"
+"[ec_customer_note]\n"
+"\n"
+"For your reference, your order details are shown below.\n"
+"\n"
+msgstr ""
+
+#: ec-theme-woocommerce.php:379
+msgid "Password Reset Instructions"
+msgstr ""
+
+#: ec-theme-woocommerce.php:389
+msgid ""
+"Someone requested that the password be reset for the following account:\n"
+"\n"
+"Username: [ec_user_login]\n"
+"\n"
+"If this was a mistake, just ignore this email and nothing will happen.\n"
+"\n"
+"To reset your password, visit the following address:\n"
+"[ec_reset_password_link]"
+msgstr ""
+
+#: ec-theme-woocommerce.php:404
+msgid "Welcome to [ec_site_name hide='container']"
+msgstr ""
+
+#: ec-theme-woocommerce.php:414
+msgid ""
+"Thanks for creating an account on [ec_site_name]. Your username is "
+"[ec_user_login].\n"
+"\n"
+"You can access your account area to view your orders and change your "
+"password here: [ec_account_link]."
+msgstr ""
+
+#: ec-theme-woocommerce.php:421 ec-theme-yellow.php:475
+msgid "Password Regenerated Text"
+msgstr ""
+
+#: ec-theme-woocommerce.php:424 ec-theme-yellow.php:478
+msgid "Your password has been automatically generated: [ec_user_password]"
+msgstr ""
+
+#: ec-theme-woocommerce.php:437
+msgid "Base Color"
+msgstr ""
+
+#: ec-theme-woocommerce.php:449
+msgid "Background Colour"
+msgstr ""
+
+#: ec-theme-woocommerce.php:461
+msgid "Body Background Colour"
+msgstr ""
+
+#: ec-theme-woocommerce.php:473
+msgid "Body Text Colour"
+msgstr ""
+
+#: ec-theme-woocommerce.php:485 ec-theme-yellow.php:1011
+msgid "Product Images"
+msgstr ""
+
+#: ec-theme-woocommerce.php:502 ec-theme-yellow.php:630
+msgid "Logo"
+msgstr ""
+
+#: ec-theme-woocommerce.php:506 ec-theme-yellow.php:634 ec-theme-yellow.php:671
+#: ec-theme-yellow.php:707 ec-theme-yellow.php:743 ec-theme-yellow.php:779
+#: ec-theme-yellow.php:815 ec-theme-yellow.php:851 ec-theme-yellow.php:1035
+msgid "Enter a URL or upload an image"
+msgstr ""
+
+#: ec-theme-woocommerce.php:513 ec-theme-yellow.php:1042
+msgid "Footer Text"
+msgstr ""
+
+#: ec-theme-woocommerce.php:516 ec-theme-yellow.php:1045
+msgid "[ec_site_name] – Powered by WooCommerce"
+msgstr ""
+
+#: ec-theme-yellow.php:96
+msgid "Links"
+msgstr ""
+
+#: ec-theme-yellow.php:102
+msgid "Section Headings"
+msgstr ""
+
+#: ec-theme-yellow.php:108
+msgid "Order Items Table"
+msgstr ""
+
+#: ec-theme-yellow.php:120
+msgid "Custom CSS"
+msgstr ""
+
+#: ec-theme-yellow.php:152
+msgid "New order received!"
+msgstr ""
+
+#: ec-theme-yellow.php:163
+msgid ""
+"You have received an order from [ec_firstname] [ec_lastname].\n"
+"\n"
+"Their order is as follows: [ec_order]"
+msgstr ""
+
+#: ec-theme-yellow.php:255
+msgid "Your order is being processed"
+msgstr ""
+
+#: ec-theme-yellow.php:266
+msgid "Your order [ec_order] has been received and is now being processed."
+msgstr ""
+
+#: ec-theme-yellow.php:292
+msgid ""
+"Your order [ec_order] at [ec_site_name] has been completed.\n"
+"\n"
+"We're just letting you know. No further action is required."
+msgstr ""
+
+#: ec-theme-yellow.php:307
+msgid "Your order has been refunded"
+msgstr ""
+
+#: ec-theme-yellow.php:318
+msgid "Your order [ec_order] has been refunded. Thanks"
+msgstr ""
+
+#: ec-theme-yellow.php:341
+msgid "Your order [ec_order] has been partially refunded. Thanks"
+msgstr ""
+
+#: ec-theme-yellow.php:356 ec-theme-yellow.php:379
+msgid "Invoice for order [ec_order]"
+msgstr ""
+
+#: ec-theme-yellow.php:367
+msgid ""
+"Thanks for your order on [ec_site_link].\n"
+"\n"
+"To pay for this order please use the following link: [ec_pay_link]"
+msgstr ""
+
+#: ec-theme-yellow.php:416
+msgid "[ec_customer_note]"
+msgstr ""
+
+#: ec-theme-yellow.php:431
+msgid "Password Reset"
+msgstr ""
+
+#: ec-theme-yellow.php:442
+msgid ""
+"Someone requested that the password be reset for the following account:\n"
+"[ec_user_login]\n"
+"\n"
+"If this was a mistake, just ignore this email and nothing will happen.\n"
+"\n"
+"To reset your password, visit the following address:\n"
+"[ec_reset_password_link]"
+msgstr ""
+
+#: ec-theme-yellow.php:457
+msgid "Your account has been created"
+msgstr ""
+
+#: ec-theme-yellow.php:468
+msgid ""
+"Thanks for creating an account on [ec_site_name].\n"
+"Your username is: [ec_user_login].\n"
+"\n"
+"You can access your account area to view your orders and change your "
+"password here: [ec_account_link]"
+msgstr ""
+
+#: ec-theme-yellow.php:491
+msgid "Email Width"
+msgstr ""
+
+#: ec-theme-yellow.php:503 ec-theme-yellow.php:987
+msgid "Border Radius"
+msgstr ""
+
+#: ec-theme-yellow.php:515
+msgid "Header Color"
+msgstr ""
+
+#: ec-theme-yellow.php:539
+msgid "Page Color"
+msgstr ""
+
+#: ec-theme-yellow.php:551 ec-theme-yellow.php:999
+msgid "Background Color"
+msgstr ""
+
+#: ec-theme-yellow.php:563
+msgid "Text Color"
+msgstr ""
+
+#: ec-theme-yellow.php:575
+msgid "Text Accent Color"
+msgstr ""
+
+#: ec-theme-yellow.php:587
+msgid "Main Heading size"
+msgstr ""
+
+#: ec-theme-yellow.php:599
+msgid "Text Line Height"
+msgstr ""
+
+#: ec-theme-yellow.php:614
+msgid "Logo Position"
+msgstr ""
+
+#: ec-theme-yellow.php:645
+msgid "Link 1 Text"
+msgstr ""
+
+#: ec-theme-yellow.php:656
+msgid "Link 1 URL"
+msgstr ""
+
+#: ec-theme-yellow.php:667
+msgid "Link 1 Image"
+msgstr ""
+
+#: ec-theme-yellow.php:681
+msgid "Link 2 Text"
+msgstr ""
+
+#: ec-theme-yellow.php:692
+msgid "Link 2 URL"
+msgstr ""
+
+#: ec-theme-yellow.php:703
+msgid "Link 2 Image"
+msgstr ""
+
+#: ec-theme-yellow.php:717
+msgid "Link 3 Text"
+msgstr ""
+
+#: ec-theme-yellow.php:728
+msgid "Link 3 URL"
+msgstr ""
+
+#: ec-theme-yellow.php:739
+msgid "Link 3 Image"
+msgstr ""
+
+#: ec-theme-yellow.php:753
+msgid "Link 4 Text"
+msgstr ""
+
+#: ec-theme-yellow.php:764
+msgid "Link 4 URL"
+msgstr ""
+
+#: ec-theme-yellow.php:775
+msgid "Link 4 Image"
+msgstr ""
+
+#: ec-theme-yellow.php:789
+msgid "Link 5 Text"
+msgstr ""
+
+#: ec-theme-yellow.php:800
+msgid "Link 5 URL"
+msgstr ""
+
+#: ec-theme-yellow.php:811
+msgid "Link 5 Image"
+msgstr ""
+
+#: ec-theme-yellow.php:825
+msgid "Link 6 Text"
+msgstr ""
+
+#: ec-theme-yellow.php:836
+msgid "Link 6 URL"
+msgstr ""
+
+#: ec-theme-yellow.php:847
+msgid "Link 6 Image"
+msgstr ""
+
+#: ec-theme-yellow.php:863
+msgid "Font Size"
+msgstr ""
+
+#: ec-theme-yellow.php:875
+msgid "Line Width"
+msgstr ""
+
+#: ec-theme-yellow.php:887
+msgid "Line Color"
+msgstr ""
+
+#: ec-theme-yellow.php:903
+msgid "Divider Style"
+msgstr ""
+
+#: ec-theme-yellow.php:921
+msgid "Divider Color"
+msgstr ""
+
+#: ec-theme-yellow.php:933
+msgid "Divider Width"
+msgstr ""
+
+#: ec-theme-yellow.php:945
+msgid "Table Border Style"
+msgstr ""
+
+#: ec-theme-yellow.php:963
+msgid "Border Color"
+msgstr ""
+
+#: ec-theme-yellow.php:975
+msgid "Border Width"
+msgstr ""
+
+#: ec-theme-yellow.php:1031
+msgid "Footer Left Image"
+msgstr ""
+
+#: includes/ec-functions.php:44 includes/ec-functions.php:45
+msgid "Theme IDs cannot exceed 20 characters in length"
+msgstr ""
+
+#: includes/ec-settings.php:113 includes/ec-settings.php:168
+#: includes/ec-settings.php:223 includes/ec-settings.php:291
+#: includes/ec-settings.php:378
+msgid "Reset to:"
+msgstr ""
+
+#: includes/ec-settings.php:114 includes/ec-settings.php:169
+#: includes/ec-settings.php:224 includes/ec-settings.php:292
+#: includes/ec-settings.php:379
+msgid "Reset to default"
+msgstr ""
+
+#: includes/ec-settings.php:419
+msgid "Hard Crop?"
+msgstr ""
+
+#: includes/ec-settings.php:444
+msgid "Select a page&hellip;"
+msgstr ""
+
+#: includes/ec-settings.php:472
+msgid "Choose a country&hellip;"
+msgstr ""
+
+#: includes/ec-settings.php:501
+msgid "Choose countries&hellip;"
+msgstr ""
+
+#: includes/ec-settings.php:507
+msgid "Select all"
+msgstr ""
+
+#: includes/ec-settings.php:507
+msgid "Select none"
+msgstr ""
+
+#: includes/ec-shortcodes.php:173 includes/ec-shortcodes.php:271
+#: includes/ec-shortcodes.php:275 includes/ec-shortcodes.php:539
+#: includes/ec-shortcodes.php:587
+msgid "This shortcode cannot be used in this email"
+msgstr ""
+
+#: includes/ec-shortcodes.php:179
+msgid "Order shortcodes cannot be used in this email"
+msgstr ""
+
+#: includes/ec-shortcodes.php:502
+msgid "Click here to reset your password"
+msgstr ""
+
+#: includes/ec-shortcodes.php:596
+msgid "Pay now"
+msgstr ""
+
+#: make.php:399 make.php:436 make.php:492 make.php:524
+msgid "You must be logged in"
+msgstr ""
+
+#: make.php:582 make.php:583 pages/ec-admin-page.php:73
+msgid "Email Customizer"
+msgstr ""
+
+#: make.php:634 make.php:643
+msgid ""
+"Preview and test emails as they will appear in mail clients when received."
+msgstr ""
+
+#: make.php:1296
+#, php-format
+msgid ""
+"%sEmail Customizer for WooCommerce is inactive due to conflicts%sOur plugin "
+"will conflict with the following plugins and cannot be used while they are "
+"active: %s"
+msgstr ""
+
+#: make.php:1334
+#, php-format
+msgid ""
+"%sEmail Customizer for WooCommerce needs WooCommerce%s %sWooCommerce%s must "
+"be active for Email Customizer to work. Please install & activate "
+"WooCommerce."
+msgstr ""
+
+#: make.php:1350
+#, php-format
+msgid ""
+"%sEmail Customizer for WooCommerce is inactive%s This version of Email "
+"Customizer requires WooCommerce %s or newer. For more information about our "
+"WooCommerce version support %sclick here%s."
+msgstr ""
+
+#: pages/ec-admin-page.php:64
+msgid "Back"
+msgstr ""
+
+#: pages/ec-admin-page.php:83
+msgid ""
+"Choose which email theme to preview. Then click 'Use' to use it for all your "
+"future WooCommerce emails."
+msgstr ""
+
+#: pages/ec-admin-page.php:84
+msgid "Email Theme to show"
+msgstr ""
+
+#: pages/ec-admin-page.php:91
+msgid "WooCommerce (original, not editable)"
+msgstr ""
+
+#: pages/ec-admin-page.php:102
+msgid "(WooCommerce update required)"
+msgstr ""
+
+#: pages/ec-admin-page.php:112
+msgid "Don't Use"
+msgstr ""
+
+#: pages/ec-admin-page.php:113
+msgid "Use"
+msgstr ""
+
+#: pages/ec-admin-page.php:122
+msgid "Choose which email type to preview."
+msgstr ""
+
+#: pages/ec-admin-page.php:123
+msgid "Email Type to show"
+msgstr ""
+
+#: pages/ec-admin-page.php:130 pages/ec-admin-page.php:183
+msgid "Select one..."
+msgstr ""
+
+#: pages/ec-admin-page.php:150
+msgid ""
+"Customize the email you're showing in the preview. Then click 'Save & "
+"Publish' to save your customizations."
+msgstr ""
+
+#: pages/ec-admin-page.php:151 pages/ec-admin-page.php:157
+msgid "Customize"
+msgstr ""
+
+#: pages/ec-admin-page.php:162
+msgid "Get Customized Themes"
+msgstr ""
+
+#: pages/ec-admin-page.php:170
+msgid "Choose which order to use to populate the email preview."
+msgstr ""
+
+#: pages/ec-admin-page.php:171
+msgid "Order to show"
+msgstr ""
+
+#: pages/ec-admin-page.php:190
+msgid "There are no orders to preview..."
+msgstr ""
+
+#: pages/ec-admin-page.php:210
+#, php-format
+msgid "...Showing the most recent %u orders"
+msgstr ""
+
+#: pages/ec-admin-page.php:220
+msgid "More advanced debugging options."
+msgstr ""
+
+#: pages/ec-admin-page.php:221
+msgid "Debugging"
+msgstr ""
+
+#: pages/ec-admin-page.php:238
+msgid "Show Header & Template Info"
+msgstr ""
+
+#: pages/ec-admin-page.php:252
+msgid "Show PHP Errors"
+msgstr ""
+
+#: pages/ec-admin-page.php:264
+msgid ""
+"Send a test email to any address. Use a comma separated list to send to "
+"multiple addresses"
+msgstr ""
+
+#: pages/ec-admin-page.php:265
+msgid "Send a Test"
+msgstr ""
+
+#: pages/ec-admin-page.php:375
+msgid ""
+"Copy & paste any of these [shortcodes] to use dynamic text in your text."
+msgstr ""
+
+#: pages/ec-admin-page.php:376
+msgid "Allowed Shortcodes:"
+msgstr ""
+
+#: pages/ec-admin-page.php:398
+msgid "New"
+msgstr ""
+
+#: pages/ec-admin-page.php:400
+#, php-format
+msgid ""
+"For more shortcode documentation <a href=\"%s\" target=\"_blank\">click "
+"here</a>"
+msgstr ""
+
+#: pages/ec-admin-page.php:419
+msgid "Popout Email Preview"
+msgstr ""
+
+#: pages/ec-preview-page.php:3
+msgid "Cheatin&#8217; uh?"
+msgstr ""
+
+#: pages/ec-preview-page.php:73
+msgid "You'll need at least one order to use Email Customizer properly"
+msgstr ""
+
+#: pages/ec-preview-page.php:74
+msgid "You'll need at least one order to preview all the email types correctly"
+msgstr ""
+
+#: pages/ec-preview-page.php:76
+msgid ""
+"Simply follow your store's checkout process to create at least one order, "
+"then return here to preview all the possible email types."
+msgstr ""
+
+#: pages/ec-preview-page.php:92
+msgid "HTML Email Template"
+msgstr ""
+
+#: pages/ec-preview-page.php:148
+msgid "You need to update WooCommerce in order to use this theme"
+msgstr ""
+
+#: pages/ec-preview-page.php:150
+msgid ""
+"The theme you selected requires the latest version of WooCommerce - please "
+"first update, then return here and select it."
+msgstr ""
+
+#: pages/ec-preview-page.php:164
+msgid "We've not seen this email type from this third party plugin before"
+msgstr ""
+
+#: pages/ec-preview-page.php:166
+msgid ""
+"Don't worry, the email will send fine, you just can't preview it. "
+"Customizing it - here are your options. Option 1: choose to show one of the "
+"other known emails and customize it (colors, sizes, etc) - the styling will "
+"be inherited if they have included the header and footer in the normal way. "
+"Option 2: choose to dismiss this message and see if it just works. If you "
+"see a blank screen then use option 1."
+msgstr ""
+
+#: pages/ec-preview-page.php:167
+msgid "Dismiss"
+msgstr ""
+
+#: pages/ec-preview-page.php:181
+msgid "There were PHP errors generated while retreiving your email."
+msgstr ""
+
+#: pages/ec-preview-page.php:224
+msgid "Header Info"
+msgstr ""
+
+#: pages/ec-preview-page.php:225
+msgid ""
+"The header infomration that will be sent with the current email. This can be "
+"changed in WooCommerce Settings > Emails, or simply click Edit next to the "
+"relevant field to be taken there."
+msgstr ""
+
+#: pages/ec-preview-page.php:231
+msgid "Subject"
+msgstr ""
+
+#: pages/ec-preview-page.php:236 pages/ec-preview-page.php:247
+#: pages/ec-preview-page.php:258
+msgid "Edit"
+msgstr ""
+
+#: pages/ec-preview-page.php:242
+msgid "From Email"
+msgstr ""
+
+#: pages/ec-preview-page.php:253
+msgid "From Name"
+msgstr ""
+
+#: pages/ec-preview-page.php:264
+msgid "To Email"
+msgstr ""
+
+#: pages/ec-preview-page.php:273
+msgid "Templates In This Email"
+msgstr ""
+
+#: pages/ec-preview-page.php:297
+msgid "Email Customizer Default Templates"
+msgstr ""
+
+#: pages/ec-preview-page.php:301
+msgid "Non Email Customizer Templates"
+msgstr ""
+
+#: pages/ec-preview-page.php:305
+msgid "Overridden Templates"
+msgstr ""
+
+#: pages/ec-preview-page.php:310
+msgid ""
+"<strong>Email Customizer Default Templates</strong> are those found inside "
+"our plugin folder. We update these templates when to incorporate any changes "
+"that WooCommerce, or the other plugins we support e.g Subscription and "
+"Bookings, make to theirs. If you want to customize these templates then "
+"please don't edit them here (in our plugin folder) as your changes will be "
+"lost next time you update. Rather use the suggested Template Overriding "
+"method explained below which will maintain your changes after updating.<br /"
+">\n"
+"<strong>Non Email Customizer Templates</strong> are templates being pulled "
+"in from 3rd party plugins that we have chosen not to, or don't yet, support. "
+"Our emails simply include the code from these templates at the time the "
+"email is sent. Usually our header and footer are used and their template is "
+"used for the main content or body. These templates can be customized in the "
+"same way using the template override method explained below.<br/>\n"
+"<strong>Overridden Templates are templates that you have customized and "
+"overridden. You will be responsible for copying any future code changes we "
+"make to our templates over to these custom overridden templates."
+msgstr ""
+
+#: templates-wc2.5-wc2.9/emails/woocommerce/email-addresses.php:22
+#: templates-wc2.5-wc2.9/emails/yellow/email-addresses.php:23
+#: templates/emails/woocommerce/email-addresses.php:22
+#: templates/emails/yellow/email-addresses.php:23
+msgid "Billing address"
+msgstr ""
+
+#: templates-wc2.5-wc2.9/emails/woocommerce/email-addresses.php:25
+#: templates-wc2.5-wc2.9/emails/yellow/email-addresses.php:26
+#: templates/emails/woocommerce/email-addresses.php:25
+#: templates/emails/yellow/email-addresses.php:26
+msgid "N/A"
+msgstr ""
+
+#: templates-wc2.5-wc2.9/emails/woocommerce/email-addresses.php:36
+#: templates-wc2.5-wc2.9/emails/yellow/email-addresses.php:37
+#: templates/emails/woocommerce/email-addresses.php:36
+#: templates/emails/yellow/email-addresses.php:37
+msgid "Shipping address"
+msgstr ""
+
+#: templates-wc2.5-wc2.9/emails/woocommerce/email-customer-details.php:17
+#: templates-wc2.5-wc2.9/emails/yellow/email-customer-details.php:17
+#: templates/emails/woocommerce/email-customer-details.php:17
+#: templates/emails/yellow/email-customer-details.php:17
+msgid "Customer details"
+msgstr ""
+
+#: templates-wc2.5-wc2.9/emails/woocommerce/email-downloads.php:16
+#: templates-wc2.5-wc2.9/emails/yellow/email-downloads.php:16
+#: templates/emails/woocommerce/email-downloads.php:16
+#: templates/emails/yellow/email-downloads.php:16
+msgid "Downloads"
+msgstr ""
+
+#: templates-wc2.5-wc2.9/emails/woocommerce/email-downloads.php:52
+#: templates-wc2.5-wc2.9/emails/yellow/email-downloads.php:54
+#: templates/emails/woocommerce/email-downloads.php:52
+#: templates/emails/yellow/email-downloads.php:54
+msgid "Never"
+msgstr ""
+
+#. translators: %s: Order ID.
+#: templates-wc2.5-wc2.9/emails/woocommerce/email-order-details.php:36
+#: templates/emails/woocommerce/email-order-details.php:36
+#, php-format
+msgid "[Order #%s]"
+msgstr ""
+
+#: templates-wc2.5-wc2.9/emails/woocommerce/email-order-details.php:44
+#: templates-wc2.5-wc2.9/emails/yellow/email-order-details.php:50
+#: templates/emails/woocommerce/email-order-details.php:44
+#: templates/emails/yellow/email-order-details.php:50
+msgid "Product"
+msgstr ""
+
+#: templates-wc2.5-wc2.9/emails/woocommerce/email-order-details.php:45
+#: templates-wc2.5-wc2.9/emails/yellow/email-order-details.php:51
+#: templates/emails/woocommerce/email-order-details.php:45
+#: templates/emails/yellow/email-order-details.php:51
+msgid "Quantity"
+msgstr ""
+
+#: templates-wc2.5-wc2.9/emails/woocommerce/email-order-details.php:46
+#: templates-wc2.5-wc2.9/emails/yellow/email-order-details.php:52
+#: templates/emails/woocommerce/email-order-details.php:46
+#: templates/emails/yellow/email-order-details.php:52
+msgid "Price"
+msgstr ""
+
+#: templates-wc2.5-wc2.9/emails/woocommerce/email-order-details.php:79
+#: templates/emails/woocommerce/email-order-details.php:79
+msgid "Note:"
+msgstr ""
+
+#: templates-wc2.5-wc2.9/emails/yellow/customer-invoice.php:29
+#: templates/emails/yellow/customer-invoice.php:29
+msgid "Payment Pending"
+msgstr ""
+
+#: templates-wc2.5-wc2.9/emails/yellow/customer-invoice.php:45
+#: templates/emails/yellow/customer-invoice.php:45
+msgid "Payment Complete"
+msgstr ""
+
+#: templates-wc2.5-wc2.9/emails/yellow/customer-new-account.php:29
+#: templates/emails/yellow/customer-new-account.php:29
+msgid "If admin sets auto generated passwords"
+msgstr ""
+
+#: templates-wc2.5-wc2.9/emails/yellow/customer-refunded-order.php:29
+#: templates/emails/yellow/customer-refunded-order.php:29
+msgid "Partial Refund"
+msgstr ""
+
+#: templates-wc2.5-wc2.9/emails/yellow/customer-refunded-order.php:45
+#: templates/emails/yellow/customer-refunded-order.php:45
+msgid "Refund"
+msgstr ""
+
+#: templates-wc2.5-wc2.9/emails/yellow/email-order-details.php:22
+#: templates/emails/yellow/email-order-details.php:22
+msgid "Order Details"
+msgstr ""
+
+#: templates-wc2.5-wc2.9/emails/yellow/email-order-details.php:28
+#: templates/emails/yellow/email-order-details.php:28
+msgid "Order Number:"
+msgstr ""
+
+#: templates-wc2.5-wc2.9/emails/yellow/email-order-details.php:33
+#: templates/emails/yellow/email-order-details.php:33
+#, php-format
+msgid "Order #%s"
+msgstr ""
+
+#: templates-wc2.5-wc2.9/emails/yellow/email-order-details.php:38
+#: templates/emails/yellow/email-order-details.php:38
+msgid "Order Date:"
+msgstr ""
+
+#: templates-wc2.5-wc2.9/emails/yellow/email-order-details.php:86
+#: templates/emails/yellow/email-order-details.php:86
+msgid "Note"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Make Email Customizer for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://excellentdynamics.biz/wordpress-plugins/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"WooCommerce Email Customizer plugin allows you to fully customize the "
+"styling, colors, logo and text in the emails sent from your WooCommerce "
+"store."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ExcellentDynamics"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://excellentdynamics.biz/"
+msgstr ""
